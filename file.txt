@@ -1,1 +1,2 @@
 Add some content to file.txt
+Add 2nd line.
